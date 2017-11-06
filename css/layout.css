@@ -37,6 +37,7 @@
   margin-right: 2%;
   margin-top: 2%;
   margin-bottom: 2%;
+  padding-left: 2%;
 }
 
 
@@ -44,12 +45,13 @@
   float: left;
   width: 66%;
   padding: 5px 5px 5px 0;
+  padding-left: 2%;
 }
 
 .col-6 {
   float: right;
   width: 30%;
-  padding:0;
+  padding-left: 2%;
 
 }
 
