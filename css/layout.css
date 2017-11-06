@@ -27,8 +27,8 @@
 }
 
 .col-3 {
-  display: right;
-  float: right;
+  display: inline;
+  float: left;
   padding-left: 2%;
 
 }
