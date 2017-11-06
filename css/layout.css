@@ -10,7 +10,7 @@
 }
 
 .col-1 {
-  float: right;
+  float: left;
   width: 33.33%;
   padding: 5px 5px 5px 0;
   margin-left: 2%;
@@ -18,14 +18,14 @@
 }
 
 .col-2 {
-  float: right;
+  float: left;
   width: 33.33%;
   padding: 5px 5px 5px 0;
 
 }
 
 .col-3 {
-  float: right;
+  float: left;
   margin: 2%;
 }
 
